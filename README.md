@@ -1,1 +1,1 @@
-# mern-ec
+# mern-e
