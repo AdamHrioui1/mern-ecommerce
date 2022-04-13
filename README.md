@@ -1,1 +1,1 @@
-# mern-ecom
+# mern-ecommerce
